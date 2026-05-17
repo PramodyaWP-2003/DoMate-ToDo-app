@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_bg">#131C3F</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+
+    <color name="login_bg">#F1F2F6</color>
+    <color name="login_title">#131C3F</color>
+    <color name="login_subtitle">#7D849A</color>
+    <color name="input_hint">#A0A5BA</color>
+    <color name="input_border">#D1D5E1</color>
+    <color name="divider_color">#D1D5E1</color>
+
+    <color name="task_item_bg">#F1F4FA</color>
+    <color name="task_text_completed">#A0A5BA</color>
+    <color name="fab_bg">#E0E7FF</color>
+    <color name="bottom_nav_bg">#F8F9FD</color>
+    <color name="bottom_nav_selected">#DDE3FF</color>
+
+    <color name="profile_card_bg">#F8F9FD</color>
+    <color name="edit_info_bg">#EBEBFA</color>
+    <color name="logout_red">#C22D23</color>
+</resources>
